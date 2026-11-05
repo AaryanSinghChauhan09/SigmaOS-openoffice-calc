@@ -1,0 +1,9 @@
+[package]
+name = "sigmaos_openoffice_calc"
+version = "0.1.0"
+edition = "2021"
+description = "OpenOffice Calc calculation engine, formula evaluator, and tabular cell grid"
+
+[lib]
+name = "sigmaos_openoffice_calc"
+path = "src/lib.rs"
