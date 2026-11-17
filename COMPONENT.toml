@@ -3,7 +3,7 @@ name = "SigmaOS-openoffice-calc"
 tier = 3
 stability = "stable"
 language = "rust"
-description = "OpenOffice Calc calculation engine, formula evaluator, and tabular cell grid"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
